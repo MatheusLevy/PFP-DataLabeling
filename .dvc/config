@@ -1,0 +1,5 @@
+[core]
+    remote = data-labeling-s3
+['remote "data-labeling-s3"']
+    url = s3://data-labeling-s3
+    endpointurl = http://localhost:9444
