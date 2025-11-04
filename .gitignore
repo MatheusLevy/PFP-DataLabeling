@@ -1,4 +1,5 @@
 /labeled
 /raw
 /s3-ninja-data/data-labeling-s3/
+/s3-ninja-data/mlflow
 /data
